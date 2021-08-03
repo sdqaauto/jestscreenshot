@@ -9,7 +9,7 @@ Failure: screenshots/0-fail-scriptname-testname.png
 
 ## Import jestscreenshot
 ```javascript
-let jestscreenshot = require('@jeeyah/jestscreenshot');
+let jestscreenshot = require('@sdqaauto/jestscreenshot');
 ```
 
 ## In beforeAll, initialize jestscreenshot after initializing Puppeteer
