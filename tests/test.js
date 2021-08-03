@@ -1,5 +1,5 @@
 let puppeteer = require('puppeteer');
-let jestscreenshot = require('@jeeyah/jestscreenshot');
+let jestscreenshot = require('@sdqaauto/jestscreenshot');
 
 /* global beforeAll, afterAll, expect */
 

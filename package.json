@@ -1,5 +1,5 @@
 {
-  "name": "@jeeyah/jestscreenshot",
+  "name": "@sdqaauto/jestscreenshot",
   "version": "1.0.4",
   "description": "Extend Jest and Puppeteer to automatically take screenshots after each test failure or success",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jeeyah/jestscreenshot.git"
+    "url": "git@github.com:sdqaauto/jestscreenshot.git"
   },
   "keywords": [
     "jest",
@@ -21,9 +21,9 @@
   "author": "wadez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeeyah/jestscreenshot/issues"
+    "url": "https://github.com/sdqaauto/jestscreenshot/issues"
   },
-  "homepage": "https://github.com/jeeyah/jestscreenshot#readme",
+  "homepage": "https://github.com/sdqaauto/jestscreenshot#readme",
   "dependencies": {
     "del": "^5.0.0"
   }
